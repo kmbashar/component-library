@@ -1,1 +1,240 @@
 
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "e4eb4181-c999-b4f7-a2e5-8a47a64cb43c",
+        "type": "Block",
+        "tag": "header",
+        "classes": [],
+        "children": ["e4eb4181-c999-b4f7-a2e5-8a47a64cb43d"],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "header"
+        }
+      },
+      {
+        "_id": "e4eb4181-c999-b4f7-a2e5-8a47a64cb43d",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7eccb33a-59b5-c5e6-f6ad-6117c1c825fe"],
+        "children": ["e4eb4181-c999-b4f7-a2e5-8a47a64cb43e"],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "e4eb4181-c999-b4f7-a2e5-8a47a64cb43e",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7eccb33a-59b5-c5e6-f6ad-6117c1c825de"],
+        "children": ["e4eb4181-c999-b4f7-a2e5-8a47a64cb43f"],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "e4eb4181-c999-b4f7-a2e5-8a47a64cb43f",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7eccb33a-59b5-c5e6-f6ad-6117c1c82644"],
+        "children": ["e4eb4181-c999-b4f7-a2e5-8a47a64cb440"],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "e4eb4181-c999-b4f7-a2e5-8a47a64cb440",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7eccb33a-59b5-c5e6-f6ad-6117c1c82675"],
+        "children": ["2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2b6"],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2b6",
+        "type": "Block",
+        "tag": "div",
+        "classes": ["7fa73bc0-81c2-3283-9fd6-997613900875"],
+        "children": [
+          "2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2b9",
+          "2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2bb"
+        ],
+        "data": {
+          "search": { "exclude": false },
+          "xattr": [],
+          "text": false,
+          "displayName": "",
+          "attr": { "id": "" },
+          "visibility": { "conditions": [] },
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2b9",
+        "type": "Heading",
+        "tag": "h1",
+        "classes": [],
+        "children": ["2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2ba"],
+        "data": {
+          "tag": "h1",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] },
+          "displayName": ""
+        }
+      },
+      {
+        "_id": "2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2ba",
+        "text": true,
+        "v": "Header 1 Component"
+      },
+      {
+        "_id": "2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2bb",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": ["f3d88c0f-6ebb-ace2-8fea-68b6112714bb"],
+        "children": ["2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2bc"],
+        "data": {
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] },
+          "displayName": ""
+        }
+      },
+      {
+        "_id": "2b15ea2b-5a6e-1aa6-7ef9-8e82ed30f2bc",
+        "text": true,
+        "v": "Don’t ever play yourself. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch. They will try to close the door on you, just open it. Wraith talk."
+      }
+    ],
+    "styles": [
+      {
+        "_id": "7eccb33a-59b5-c5e6-f6ad-6117c1c825fe",
+        "fake": false,
+        "type": "class",
+        "name": "padding-global",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-right: 2.5rem; padding-left: 2.5rem;",
+        "variants": {
+          "small": {
+            "styleLess": "padding-right: 1.25rem; padding-left: 1.25rem;"
+          }
+        },
+        "children": [],
+        "selector": null
+      },
+      {
+        "_id": "7eccb33a-59b5-c5e6-f6ad-6117c1c825de",
+        "fake": false,
+        "type": "class",
+        "name": "container-small",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 100%; max-width: 48rem; margin-right: auto; margin-left: auto;",
+        "variants": {},
+        "children": [],
+        "selector": null
+      },
+      {
+        "_id": "7eccb33a-59b5-c5e6-f6ad-6117c1c82644",
+        "fake": false,
+        "type": "class",
+        "name": "padding-section-medium",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-top: 5rem; padding-bottom: 5rem;",
+        "variants": {
+          "medium": { "styleLess": "padding-top: 4rem; padding-bottom: 4rem;" },
+          "small": { "styleLess": "padding-top: 3rem; padding-bottom: 3rem;" }
+        },
+        "children": [],
+        "createdBy": "54441c96b0981db6504faf03",
+        "selector": null
+      },
+      {
+        "_id": "7eccb33a-59b5-c5e6-f6ad-6117c1c82675",
+        "fake": false,
+        "type": "class",
+        "name": "text-align-center",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "text-align: center;",
+        "variants": {},
+        "children": [],
+        "selector": null
+      },
+      {
+        "_id": "7fa73bc0-81c2-3283-9fd6-997613900875",
+        "fake": false,
+        "type": "class",
+        "name": "header1_component",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: grid; grid-auto-columns: 1fr; grid-column-gap: 0rem; grid-row-gap: 0.5rem; grid-template-columns: 1fr; grid-template-rows: auto auto;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6105ef3f19602768b12c8a43",
+        "selector": null
+      },
+      {
+        "_id": "f3d88c0f-6ebb-ace2-8fea-68b6112714bb",
+        "fake": false,
+        "type": "class",
+        "name": "text-size-m-r",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-size: 1.25rem;",
+        "variants": { "small": { "styleLess": "font-size: 1rem;" } },
+        "children": [],
+        "createdBy": "6105ef3f19602768b12c8a43",
+        "selector": null
+      }
+    ],
+    "assets": [],
+    "ix1": [],
+    "ix2": { "interactions": [], "events": [], "actionLists": [] }
+  },
+  "meta": {
+    "unlinkedSymbolCount": 0,
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0
+  }
+}
